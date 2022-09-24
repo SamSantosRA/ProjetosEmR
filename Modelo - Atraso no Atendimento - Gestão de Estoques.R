@@ -80,8 +80,3 @@ cat("\n Valor de Am = ", Am)
 cat("\n Valor de PCSF = ", PCSF)
 cat("\n Valor de PDSF = ", PDSF)
 cat("\n Valor do CTP = ", Custo_Total)
-
-
-
-
-
